@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60e0a8ba-2b00-4d3b-abfd-82e2c9573d72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1UQ6bfNoFD0sTrVh47QTXKV7qH9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e0a8ba-2b00-4d3b-abfd-82e2c9573d72" name="Default Changelist" comment="" />
+      <created>1575276757256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575276757256</updated>
+      <workItem from="1575276758845" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="55" width="824" height="684" key="#CLI_Interpreters" timestamp="1575276898943">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="55" width="824" height="684" key="#CLI_Interpreters/67.27.1299.741@67.27.1299.741" timestamp="1575276898943" />
+    <state x="67" y="27" width="700" height="741" key="#PHP" timestamp="1575276902336">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="700" height="741" key="#PHP/67.27.1299.741@67.27.1299.741" timestamp="1575276902336" />
+    <state x="503" y="159" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575277249862">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="503" y="159" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575277249862" />
+    <state x="516" y="327" width="399" height="149" key="NewPhpFileDialog" timestamp="1575276578365">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="516" y="327" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1575276578365" />
+  </component>
+</project>

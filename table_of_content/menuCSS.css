@@ -1,0 +1,16 @@
+h2, h5, h4, ul {
+    text-align: left;
+}
+ul{
+    list-style-type: none;
+}
+.link_chuong{
+    text-decoration: none;
+}
+.author{
+    font-style: italic;
+}
+img{
+    width: 100px;
+    height: 160px;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "email": "admin@gmail.com"
+  },
+  {
+    "username": "dieu",
+    "password": "123",
+    "email": "dieu.pham@codegym.vn"
+  },
+  {
+    "username": "tuan",
+    "password": "123",
+    "email": "tuan@gmail.com"
+  },
+  {
+    "username": "hoang",
+    "password": "123",
+    "email": "hoang@codegym.vn"
+  }
+]
